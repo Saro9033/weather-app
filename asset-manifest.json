@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Landing-page-senchola/static/css/main.009cdd4f.css",
-    "main.js": "/Landing-page-senchola/static/js/main.04286649.js",
+    "main.css": "/Landing-page-senchola/static/css/main.3401479d.css",
+    "main.js": "/Landing-page-senchola/static/js/main.c38d6007.js",
     "static/js/787.c46264d0.chunk.js": "/Landing-page-senchola/static/js/787.c46264d0.chunk.js",
     "static/media/safety_guideline.png": "/Landing-page-senchola/static/media/safety_guideline.45c9e6fbe07877a62df6.png",
     "static/media/CCcare_2.webp": "/Landing-page-senchola/static/media/CCcare_2.8b35080e202d39ca1977.webp",
@@ -16,12 +16,12 @@
     "static/media/who_we_1.webp": "/Landing-page-senchola/static/media/who_we_1.dcee4d20ea53936ce7d4.webp",
     "static/media/logo.svg": "/Landing-page-senchola/static/media/logo.9e7d36a87bd7d8306d5d2e6f48639976.svg",
     "index.html": "/Landing-page-senchola/index.html",
-    "main.009cdd4f.css.map": "/Landing-page-senchola/static/css/main.009cdd4f.css.map",
-    "main.04286649.js.map": "/Landing-page-senchola/static/js/main.04286649.js.map",
+    "main.3401479d.css.map": "/Landing-page-senchola/static/css/main.3401479d.css.map",
+    "main.c38d6007.js.map": "/Landing-page-senchola/static/js/main.c38d6007.js.map",
     "787.c46264d0.chunk.js.map": "/Landing-page-senchola/static/js/787.c46264d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.009cdd4f.css",
-    "static/js/main.04286649.js"
+    "static/css/main.3401479d.css",
+    "static/js/main.c38d6007.js"
   ]
 }
