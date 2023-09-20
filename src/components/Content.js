@@ -27,8 +27,8 @@ const Content = () => {
 
             <div className='row my-4'>
                 <div className='col-12 col-lg-6 d-flex justify-content-around align-items-center' >
-                    <img style={{ boxShadow:'2px 5px 8px 1px #888888',borderTopLeftRadius:'20%', borderTopRightRadius:'20%', borderBottomLeftRadius:'20%'}} width='206px' src={whoWe1} alt="Personimg1" /> 
-                    <img  style={{boxShadow:'2px 5px 8px 1px #888888',borderBottomRightRadius:'20%', borderTopRightRadius:'20%', borderBottomLeftRadius:'20%'}} width='190px'  src={whoWe2} alt="Personimg2" />
+                    <img style={{ boxShadow:'2px 5px 8px 1px #888888',borderTopLeftRadius:'20%', borderTopRightRadius:'20%', borderBottomLeftRadius:'20%'}} width='170px' src={whoWe1} alt="Personimg1" /> 
+                    <img  style={{boxShadow:'2px 5px 8px 1px #888888',borderBottomRightRadius:'20%', borderTopRightRadius:'20%', borderBottomLeftRadius:'20%'}} width='150px'  src={whoWe2} alt="Personimg2" />
 
                      </div>
                 <div className='col-12 col-lg-6 my-3' style={ (window.innerWidth < 574) ? {textAlign:'center'} : null}>

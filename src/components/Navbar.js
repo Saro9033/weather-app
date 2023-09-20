@@ -6,8 +6,7 @@ import Logo from '../images/logo.svg'
 const Navbar = ({openModal, openOutModal}) => {
 
     return (
-        <nav id='navbar' className="navbar navbar-expand-sm px-5 navbar-light"  style={{backgroundColor:'white'}  } 
-      >
+        <nav id='navbar' className="navbar navbar-expand-sm px-1 navbar-light"  style={{backgroundColor:'white'}  } >
             <div className="container-fluid"> 
             <a href="/" className="navbar-brand text-info" >
 		  <img width='100px' src={Logo} alt="Logo" /> 
