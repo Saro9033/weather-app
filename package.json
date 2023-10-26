@@ -1,7 +1,7 @@
 {
-  "name": "color-proj",
+  "name": "weather-app",
   "version": "0.1.0",
-  "homepage": "http://Saro9033.github.io/Landing-page-senchola",
+  "homepage": "http://Saro9033.github.io/weather-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
