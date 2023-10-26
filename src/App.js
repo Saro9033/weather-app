@@ -6,8 +6,6 @@ import Navbar from './components/Navbar'
 
 function App() {
   const [weather, setWeather] = useState(null);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState(null);
   const API_key = "975700c8717e977b9bd4ee924738db6c";
 
   const [fore, setFore] = useState([]);
@@ -32,13 +30,11 @@ function App() {
         })
         .then((data) => {
           setWeather(data);
-          setLoading(false);
           forecaste(data.coord.lat, data.coord.lon);
 
         })
         .catch((error) => {
-          setError(error.message);
-          setLoading(false);
+         console.log(error.message);
         });
     }
     fetchData()
@@ -77,11 +73,10 @@ function App() {
         const forecastDataArray = [...dateForecastsMap.values()];
 
         setFore(forecastDataArray);
-        setLoading(false);
+        
       })
       .catch((error) => {
-        setError(error.message);
-        setLoading(false);
+        console.log(error.message);
       });
   }
 

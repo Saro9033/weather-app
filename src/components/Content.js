@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import { Forecast } from './Forecast'
 import o1d from '../images/01d.png'
 
